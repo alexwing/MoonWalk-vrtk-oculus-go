@@ -5,7 +5,7 @@ UNITY3D OCULUS GO/GEARVR APP of Moon Terrain using VRTK
 # Requirements
 
 * Oculus Go
-* Unity 
+* Unity 2018.4.12f1
 
 Open it With Unity go to Scenes\MoonWalk
 
