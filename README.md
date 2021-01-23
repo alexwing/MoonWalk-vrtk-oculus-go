@@ -2,6 +2,11 @@
 
 UNITY3D OCULUS GO/GEARVR APP of Moon Terrain using VRTK 
 
+
+[![MoonWalk-vrtk-oculus-go](https://img.youtube.com/vi/aSMqa7SWeH8/0.jpg)](https://www.youtube.com/watch?v=aSMqa7SWeH8)
+
+
+
 # Requirements
 
 * Oculus Go
